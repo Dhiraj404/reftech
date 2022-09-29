@@ -1,0 +1,31 @@
+.from-blank {
+    height: 40px !important;
+    background: rgb(233, 233, 233) !important;
+}
+
+.buttonn {
+    width: 53px;
+    font-weight: bolder;
+    margin-top: 5px;
+
+}
+
+.department-nav-menu,
+header-department-text {
+    width: 89%;
+}
+
+.header-department-text {
+    max-width: 223px;
+}
+
+.car {
+    max-width: 63%;
+
+    margin: 45px 0 53px 30%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: black;
+}
