@@ -4112,7 +4112,7 @@ Poster
 
 .poster-countdown-thumbnail {
   text-align: center;
-  margin-top: -160px;
+
   position: relative;
 }
 
@@ -4411,7 +4411,7 @@ Service
 .service-box {
   background-color: var(--color-white);
   border: 1px solid #f1f1f1;
-  padding: 50px 30px;
+  padding: 10px 30px;
   text-align: center;
   margin-bottom: 30px;
   border-radius: 6px;
@@ -9388,8 +9388,9 @@ body.open .closeMask {
 
 .axil-product>.thumbnail>a img {
   border-radius: 6px;
-  width: 100%;
+  width: 39%;
   transition: 0.3s;
+  margin-left: 30%;
 }
 
 .axil-product>.thumbnail>a .hover-img {

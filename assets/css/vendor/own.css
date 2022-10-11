@@ -22,10 +22,43 @@ header-department-text {
 .car {
     max-width: 63%;
 
-    margin: 45px 0 53px 30%;
+    margin: 45px 0 0 30%;
 }
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
     background-color: black;
 }
+
+/* top cata */
+.catSmall {
+    height: 106px;
+}
+
+/* margin-left: 20%; */
+
+/* Brands */
+.brandBorder {
+    border: none;
+}
+
+/* what we do */
+.whatBorder {
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    padding: 2%;
+    background: rgb(241, 241, 241);
+}
+
+.whatImg {
+    height: 80px;
+    margin-left: 30%;
+    margin-bottom: 10px;
+}
+
+
+.whatFont {
+    font-size: 12px;
+}
+
+.whatBtn {}
