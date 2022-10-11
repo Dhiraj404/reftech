@@ -1238,6 +1238,7 @@ Shortcode
 
 .bg-color-white {
   background: #FFFFFF;
+  margin-top: 40px;
 }
 
 .bg-color-dark {
@@ -4356,6 +4357,7 @@ Section Heading
 
 .section-title-wrapper {
   margin-bottom: 40px;
+  padding-top: 20px;
   padding-right: 100px;
 }
 
@@ -7356,7 +7358,7 @@ Header Styles
 }
 
 .header-style-2 .axil-header-top .axil-search input {
-  width: 99%;
+  width: 100%;
   background-color: transparent;
   border: 1px solid #d4d4d4;
   border-radius: 6px;
@@ -9379,11 +9381,11 @@ body.open .closeMask {
 }
 
 .axil-product>.thumbnail>a {
-  display: block;
+  /* display: block;
   background-color: #f7f7f7;
   border-radius: 6px;
   overflow: hidden;
-  position: relative;
+  position: relative; */
 }
 
 .axil-product>.thumbnail>a img {
@@ -9644,11 +9646,11 @@ body.open .closeMask {
 }
 
 .axil-product.product-style-two .thumbnail a {
-  width: 276px;
+  /* width: 276px;
   height: 276px;
   overflow: hidden;
   border-radius: 50%;
-  margin: 0 auto;
+  margin: 0 auto; */
 }
 
 @media only screen and (max-width: 767px) {
@@ -14178,6 +14180,7 @@ Footer Styles
 
 .footer-style-2 .footer-top {
   padding: 50px 0 0;
+  margin-top: 60px;
 }
 
 .footer-style-2 .footer-top.separator-top:after {
@@ -14390,9 +14393,7 @@ Spacing
   margin-bottom: 0;
 }
 
-.axil-section-gap {
-  padding: 80px 0;
-}
+
 
 @media only screen and (max-width: 767px) {
   .axil-section-gap {
@@ -14897,9 +14898,7 @@ Spacing
   padding-top: 50px;
 }
 
-.pb--50 {
-  padding-bottom: 50px;
-}
+
 
 .pl--50 {
   padding-left: 50px;
