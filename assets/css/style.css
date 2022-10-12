@@ -8917,6 +8917,7 @@ Header Styles
 
 .mainmenu>.menu-item-has-children .axil-submenu {
   position: absolute;
+
   top: 100%;
   left: 0;
   background: #ffffff;
@@ -8944,7 +8945,7 @@ Header Styles
   font-weight: 500;
   padding: 5px 15px;
   border-radius: 4px;
-  display: block;
+  /* display: flex; */
   transition: all 0.3s ease-in-out;
   z-index: 1;
   overflow: hidden;
@@ -14755,7 +14756,7 @@ Spacing
 }
 
 .mb--30 {
-  margin-bottom: 30px;
+  margin-bottom: 65px;
 }
 
 .mr--30 {
